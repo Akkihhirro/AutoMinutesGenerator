@@ -3,4 +3,11 @@
     <string name="hint"></string>
     <string name="hello_world">hello,world!</string>
     <string name="action_settings">settings</string>
+    <string name="history">History</string>
+    <string name="font_size">Font size</string>
+    <string name="screen_size">Screen size</string>
+    <string name="color_settings">Color settings</string>
+    <string name="export">Export</string>
+    <string name="share">Share</string>
+    <string name="help">Help!</string>
 </resources>

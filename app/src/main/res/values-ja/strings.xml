@@ -2,4 +2,11 @@
 <resources>
     <string name="app_name">議事録自動生成アプリ</string>
     <string name="hint">マイクアイコンをタップするか、テキストエリアをタップしてください。</string>
+    <string name="history">履歴</string>
+    <string name="font_size">文字サイズ</string>
+    <string name="screen_size">画面サイズ</string>
+    <string name="color_settings">カラー設定</string>
+    <string name="export">エクスポート</string>
+    <string name="share">共有</string>
+    <string name="help">ヘルプ</string>
 </resources>
